@@ -1,0 +1,4 @@
+csictf{m3t4d4t4_h1d3s_s3cr3ts}
+
+Note: For the actual challenge, create a JPEG image and embed this flag in the EXIF metadata using:
+exiftool -Comment="Flag: csictf{m3t4d4t4_h1d3s_s3cr3ts}" challenge.jpg
