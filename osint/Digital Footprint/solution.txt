@@ -1,0 +1,7 @@
+Location: Eiffel Tower, Paris, France
+Coordinates: 48.8584° N, 2.2945° E
+
+Flag: csictf{48.8584_2.2945}
+
+Note: For the actual challenge, you would include a photo of a recognizable location.
+The photo should not have obvious EXIF GPS data to make it more challenging.

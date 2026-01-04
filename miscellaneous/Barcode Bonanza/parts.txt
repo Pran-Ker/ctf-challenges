@@ -1,0 +1,7 @@
+QR Code 1: csictf{qr_c
+QR Code 2: 0d3s_4r3
+QR Code 3: _fun_2_sc4n}
+
+Combined Flag: csictf{qr_c0d3s_4r3_fun_2_sc4n}
+
+Note: Generate actual QR codes using an online QR code generator for each part.

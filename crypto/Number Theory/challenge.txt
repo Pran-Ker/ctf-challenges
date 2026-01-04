@@ -1,0 +1,6 @@
+Find the smallest positive integer x where:
+x ≡ 3 (mod 5)
+x ≡ 5 (mod 7)
+x ≡ 7 (mod 11)
+
+Once you find x, the flag is: csictf{x}
